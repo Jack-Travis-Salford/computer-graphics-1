@@ -13,4 +13,4 @@ A basic hud and multi level menu was created to aid the user whith the simulatio
 
 Multiple static views were also created to view the dataset in terms of related data values. 
 
-The template to open the code in an editor is located in Template/raaComputerGraphicsAssignment1.sln. Note: The solution may require retargeting to compile. Windows SDK 10.0, Platform Toolset v143 should work for this.
+The solution to open the code in an editor is located in Template/raaComputerGraphicsAssignment1.sln. Note: The solution may require retargeting to compile. Windows SDK 10.0, Platform Toolset v143 should work for this.
