@@ -1,5 +1,5 @@
 # computer-graphics-1
-Salford University - Computer Graphics - Assignment 1. 
+Salford University Year 3 - Computer Graphics - Assignment 1. 
 
 The set assignment was to create a data visualisation tool using OpenGL. in the C language. A basic template was provided, that had to be adapted to fulfill the requirements of the assignment.
 
